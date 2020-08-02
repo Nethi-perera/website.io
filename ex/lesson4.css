@@ -1,0 +1,28 @@
+h1{
+	color: #FFAACC;
+}
+a{
+	text-decoration: none;
+}
+a:link{
+	color: green;
+}
+a:visited{
+	color: yellow;
+}
+a:hover{
+	font-weight: bold;
+	background-color: blue;
+}ul{
+	background-color: cyan;
+}
+ul li.nav{
+	background-color: #AABBCC;
+	display:inline;
+	font-size: 25px;
+	margin-left: 45px;
+	margin-top: 10px;
+	padding-left: 20px;
+	padding-right: 40px;
+	padding-bottom: 10px;
+}
